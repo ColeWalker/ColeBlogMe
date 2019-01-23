@@ -14,8 +14,10 @@
     "gatsby-remark-copy-images": "^0.2.1",
     "gatsby-remark-copy-linked-files": "^1.5.37",
     "gatsby-remark-images": "^1.5.67",
+    "gatsby-remark-prismjs": "^3.2.0",
     "gatsby-source-filesystem": "^1.5.39",
     "gatsby-transformer-remark": "^1.7.44",
+    "prismjs": "^1.15.0",
     "react-helmet": "^5.2.0",
     "react-icons": "^2.2.7",
     "styled-components": "^3.3.3"
