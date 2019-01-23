@@ -9,6 +9,7 @@ excerpt: It's been a while! Let's dive into how I made some cool, functional sid
 <p>Hello everyone! It's been a while since I've last written a blog post. Life and school kind of got in the way, but I've learned a TON since I last wrote anything, and I think that from
 here on out, my blog posts are going to be a lot more valuable and interesting to read.</p>
 <p>Today I'm going to break down how I built these cool little sidebars that I used for a parallax on my portfolio site: </p> <a href="https://www.walkermakes.com">walkermakes.com</a>
+<br>
 <h3> Tools needed for this tutorial: </h3>
 <ul>
 <li>React</li>
@@ -76,5 +77,5 @@ Each one of the scrollTo is the parallax scrollTo function with the specific pag
 ```
 
 <p>
-Above is the code for how I actually implemented this in my site! *Note that I did take out the content beneath the SideBars, just so that you wouldn't have to read through that as well. Your content goes in right under each SideBars instande. 
+Above is the code for how I actually implemented this in my site! *Note that I did take out the content beneath the SideBars, just so that you wouldn't have to read through that as well. Your content goes in right under each SideBars instance. 
 </p>
